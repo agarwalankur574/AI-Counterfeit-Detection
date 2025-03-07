@@ -25,7 +25,7 @@ real-time detection and compliance reporting.
 - **CI/CD**: Azure DevOps Pipelines
 
 ## System Architecture
-![Project Architecture](./architecture_diagram.png)
+![Project Architecture](./SPM_Embeddings.png)
 
 ## Key Features
 🔹 Automated AI-based counterfeit detection in e-commerce listings  
